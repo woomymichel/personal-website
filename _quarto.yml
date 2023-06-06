@@ -3,7 +3,7 @@ project:
   output-dir: docs
   
 website:
-  title: "MY WEB SITE"
+  title: "Woomy's Website"
   navbar:
     left:
       - href: index.qmd
@@ -15,7 +15,7 @@ website:
       - icon: github
         menu:
           - text: View Source
-            url:  https://github.com/YOURUSERNAME/YOURREPO
+            url:  https://github.com/woomymichel/personal-website
 
 format:
   html:

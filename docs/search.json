@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About Me",
+    "section": "",
+    "text": "This content appears below the formatted about page content."
+  },
+  {
     "objectID": "projects.html#project-2",
     "href": "projects.html#project-2",
     "title": "Projects",
@@ -12,26 +19,5 @@
     "title": "Projects",
     "section": "Project 3",
     "text": "Project 3"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "About Me",
-    "section": "",
-    "text": "Alma Mater is the statue on the steps leading up to Low Library at Columbia University.\n\n\nUniversity of California, San Diego | San Diego, CA PhD in Mathematics | Sept 2011 - June 2015\nMacalester College | St. Paul MA B.A in Economics | Sept 2007 - June 2011\n\n\n\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Sept 2012 - April 2018\n\n\n  \n  \n  \n    \n     twitter\n  \n  \n    \n     Github"
-  },
-  {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "About Me",
-    "section": "",
-    "text": "University of California, San Diego | San Diego, CA PhD in Mathematics | Sept 2011 - June 2015\nMacalester College | St. Paul MA B.A in Economics | Sept 2007 - June 2011"
-  },
-  {
-    "objectID": "index.html#experience",
-    "href": "index.html#experience",
-    "title": "About Me",
-    "section": "",
-    "text": "Wengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Sept 2012 - April 2018"
   }
 ]
