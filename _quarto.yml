@@ -1,0 +1,26 @@
+project:
+  type: website
+  output-dir: docs
+  
+website:
+  title: "MY WEB SITE"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - projects.qmd
+    tools:
+      - icon: twitter
+        href: https://twitter.com/
+      - icon: github
+        menu:
+          - text: View Source
+            url:  https://github.com/YOURUSERNAME/YOURREPO
+
+format:
+  html:
+    theme: cerulean
+    toc: true
+
+editor: source
+
